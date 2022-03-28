@@ -1,0 +1,42 @@
+
+body {
+  background-color: #f6f3f0;
+}
+h1 {
+  font-family: fantasy;
+  color: #b0c1a0;
+  font-size: 50px;
+}
+h3 {
+  color: #606566;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h2 {
+  color: #93a092;
+  font-family: monospace;
+  font-size: 20.5px;
+}
+h4 {
+  color: #7f928a;
+  font-family: monospace;
+  font-size: 20px;
+}
+p {
+  font-family: monospace;
+  font-size: 20px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #b7d1d3;
+  height: 0;
+  width: 90%;
+  border-width: 7px;
+}
+ol {
+  color: #7f928a;
+  font-family: monospace;
+  font-size: 20px;
+}
